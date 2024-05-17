@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on worm</title>
+    <link>http://localhost:1313/categories/blog/</link>
+    <description>Recent content in Blog on worm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 May 2024 15:49:03 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creatine Deep Dive</title>
+      <link>http://localhost:1313/blog/2024/05/01/creatine-deep-dive/</link>
+      <pubDate>Wed, 01 May 2024 15:49:03 -0500</pubDate>
+      <guid>http://localhost:1313/blog/2024/05/01/creatine-deep-dive/</guid>
+      <description>Hey, meatsuits. Most people should be taking creatine. Why? I think a better question is why not, but let&amp;rsquo;s give it a try.&#xA;- improved power/strength (5-15%), work capacity, recovery - more lean mass gains cognitive benefits&#xA;sleep deprivation tolerance&#xA;possible recall improvements in certain populations&#xA;possible benefits to a host of neurologic conditions and difficult to treat conditions like post-COVID fatigue, fibromyalgia&#xA;relatively low cost for magnitude of benefit - one of the best &amp;ldquo;bang for your buck&amp;rdquo; supplements at around $0.</description>
+    </item>
+  </channel>
+</rss>

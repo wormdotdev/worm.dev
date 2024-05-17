@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Health on worm</title>
+    <link>http://localhost:1313/tags/health/</link>
+    <description>Recent content in Health on worm</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/tags/health/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Health and Disease</title>
+      <link>http://localhost:1313/docs/health/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/health/</guid>
+      <description> Information here is based on current research, but may evolve over time, and none of it is a substitute for professional medical advice. You use this information at your own risk. The author/website is not liable for any outcomes related to the content. Always consult your doctor before making changes to your health routine. </description>
+    </item>
+    <item>
+      <title>Nutrition</title>
+      <link>http://localhost:1313/docs/nutrition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/nutrition/</guid>
+      <description> Information here is based on current research, but may evolve over time, and none of it is a substitute for professional medical advice. You use this information at your own risk. The author/website is not liable for any outcomes related to the content. Always consult your doctor before making changes to your health routine. </description>
+    </item>
+    <item>
+      <title>Exercise</title>
+      <link>http://localhost:1313/docs/exercise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/exercise/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Longevity - Healthspan and Lifespan</title>
+      <link>http://localhost:1313/docs/longevity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/longevity/</guid>
+      <description>Information here is based on current research, but may evolve over time, and none of it is a substitute for professional medical advice. You use this information at your own risk. The author/website is not liable for any outcomes related to the content. Always consult your doctor before making changes to your health routine. Tier 1 - Essentials Avoid trans fats! raise LDL, lower HDL, raise triglycerides, raise Lp(a), reduce LDL particle size, promote inflammation, cause endothelial dysfunction 1 2 percent increase in energy intake from trans fatty acids was associated with a 23 percent increase in the incidence of CHD 1 The FDA did not regulate this in the USA until 2018.</description>
+    </item>
+    <item>
+      <title>Sleep</title>
+      <link>http://localhost:1313/docs/sleep/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/sleep/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cognition</title>
+      <link>http://localhost:1313/docs/cognition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/cognition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mental Health</title>
+      <link>http://localhost:1313/docs/health/mentalhealth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/health/mentalhealth/</guid>
+      <description>Important Low Effort Interventions Adequate Omega-3 Fatty Acid intake Adequate vitamin D Effortful Interventions Probiotics Probiotics, or so-called &amp;ldquo;psychobiotics&amp;rdquo;, have some research supporting benefits in depression, and cognitive impairment, with less success in schizophrenia and bipolar I. The most studied are Bifidobacterium and Lactobacillus strains such as Bifidobacterium breve, Bifidobacterium longum, and Lactobacillus helveticus 1.&#xA;Psychobiotics: probiotics thought to be beneficial to mental health, mediated by the gut-brain axis Evidence is currently limited, however, because of the uniqueness of every individual&amp;rsquo;s microbiome and the number of possible probiotics available to test.</description>
+    </item>
+  </channel>
+</rss>
