@@ -6,35 +6,7 @@
     <description>Recent content in Blog on worm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 17 May 2024 17:38:01 -0500</lastBuildDate>
+    <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Exercise Depression</title>
-      <link>http://localhost:1313/blog/2024/05/17/exercise-depression/</link>
-      <pubDate>Fri, 17 May 2024 17:38:01 -0500</pubDate>
-      <guid>http://localhost:1313/blog/2024/05/17/exercise-depression/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Creatine Deep Dive</title>
-      <link>http://localhost:1313/blog/2024/05/01/creatine-deep-dive/</link>
-      <pubDate>Wed, 01 May 2024 15:49:03 -0500</pubDate>
-      <guid>http://localhost:1313/blog/2024/05/01/creatine-deep-dive/</guid>
-      <description>Hey, meatsuits. Most people should be taking creatine. Why? I think a better question is why not, but let&amp;rsquo;s give it a try.&#xA;- improved power/strength (5-15%), work capacity, recovery - more lean mass gains cognitive benefits&#xA;sleep deprivation tolerance&#xA;possible recall improvements in certain populations&#xA;possible benefits to a host of neurologic conditions and difficult to treat conditions like post-COVID fatigue, fibromyalgia&#xA;relatively low cost for magnitude of benefit - one of the best &amp;ldquo;bang for your buck&amp;rdquo; supplements at around $0.</description>
-    </item>
-    <item>
-      <title>LDL &amp; Mortality - Not as simple as we thought?</title>
-      <link>http://localhost:1313/blog/2024/05/01/ldl-mortality-not-as-simple-as-we-thought/</link>
-      <pubDate>Wed, 01 May 2024 15:49:03 -0500</pubDate>
-      <guid>http://localhost:1313/blog/2024/05/01/ldl-mortality-not-as-simple-as-we-thought/</guid>
-      <description>Interesting paper in the BMJ looking at the association between LDL levels and mortality in non-diabetic primary prevention patients.&#xA;Primary prevention aims to prevent the onset of a disease or condition. This includes measures like vaccinations, healthy lifestyle promotion (diet and exercise), and smoking cessation programs.&#xA;Secondary prevention focuses on early detection and treatment of a disease or condition to prevent it from worsening. Examples include regular screenings for cancer or cholesterol, and taking medication to manage high blood pressure.</description>
-    </item>
-    <item>
-      <title>Test</title>
-      <link>http://localhost:1313/blog/2024/05/01/test/</link>
-      <pubDate>Wed, 01 May 2024 15:49:03 -0500</pubDate>
-      <guid>http://localhost:1313/blog/2024/05/01/test/</guid>
-      <description>Testing new blog post.</description>
-    </item>
   </channel>
 </rss>

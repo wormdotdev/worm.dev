@@ -4,7 +4,7 @@
     <title>Health and Disease on worm</title>
     <link>http://localhost:1313/docs/health/</link>
     <description>Recent content in Health and Disease on worm</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/docs/health/index.xml" rel="self" type="application/rss+xml" />
   </channel>

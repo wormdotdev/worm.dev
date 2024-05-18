@@ -3,6 +3,7 @@ title: Longevity - Healthspan and Lifespan
 linkTitle: Longevity
 description: Living longer vs living better - are they the same thing?
 categories: [docs]
+draft: true
 tags: [health, longevity]
 weight: 4
 ---

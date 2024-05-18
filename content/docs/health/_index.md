@@ -4,6 +4,7 @@ linkTitle: Health and Disease
 description: How much disease is preventable?
 categories: [docs]
 tags: [health, disease, pathology, pathophysiology]
+draft: true
 weight: 1
 ---
 

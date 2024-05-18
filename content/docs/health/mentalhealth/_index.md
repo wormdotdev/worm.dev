@@ -4,6 +4,7 @@ linkTitle: Mental Health
 description: Do we have any control over our mood?
 categories: [docs]
 tags: [health, mentalhealth]
+draft: true
 weight: 7
 ---
 
