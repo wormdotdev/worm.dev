@@ -10,23 +10,23 @@ description: Creatine - Amazing Benefits, Overhyped, or Dangerous?
 ---
 
 
-Hey, meatsuits.
+Hey, meatsuits. I'm of the opinion that most people stand to benefit from supplementing creatine. I'll try to lay out my argument for why. I'm not the first or the only to [make this argument](https://www.sciencedirect.com/science/article/pii/S1756464621002176), nor do I have any illusions that I will do it more rigorously, or convincingly. I have just seen benefits from it myself, and wanted to review the evidence and the mechanisms.
 
-I'm of the opinion that most people should be taking creatine. I think a better question than "*Why*?" is "*Why not*?", but let's give it a try.
+I think that it stands high, if not at the top, of the list of actually useful supplements - an example of a supplement that does not just result in expensive urine.
 
 If you're an athlete, the benefits are significant in many respects. Better performance, more efficient workouts, faster recovery. See below for details.
 
-If you are not an athlete: you still exercise, right? If you don't, then you are missing out on the most effective way to live healthier, longer, feel better and more capable, improve your mood, and many other benefits.
+If you are not an athlete: you still exercise, right? If you don't, then you are missing out on the most effective way to live healthier, longer, feel better and more capable, improve your mood, and many other benefits. I'll try to make this case in other writings.
 
 In other words, everybody should be exercising, and would then benefit from these aspects of creatine supplementation. Is that not enough? How about improved memory, reasoning, and resistance to the effects of stress and sleep deprivation? Possible benefits against ischemic/hypoxic events, and oxidative stress?
 
-All for one of the lowest costs, and with the longest track record of safety of almost any supplement.
+All for one of the lowest costs, and with the longest track record of safety, of almost any supplement.
 
 ---
 
 #### Creatine Benefits
 
-- improved power/strength (5-15%)
+- improved power/strength (5-15%), or up to 25% in the untrained [^Wax2021]
 - increased time to exhaustion during high intensity endurance activity [^Forbes2023].
 - more lean mass in response to resistance training [^Delpino2022] [^Forbes2021]
 - lower body fat [^Dinan2022]
@@ -46,9 +46,7 @@ Possible side effects include:
 
 Just kidding - creatine shits not a common side effect. Creatine is extremely safe, well tolerated in even large doses.
 
-There are situations where there is limited research on its safety like in advanced renal disease. Everyone should check with their doctor to discuss their personal health situation - this blog is not medical advice and everybody's situation is unique.
-
-Let's get into the details, for those that are interested.
+There are situations where there is limited research on safety like in renal disease. Everyone should check with their doctor to discuss their personal health situation - this blog is not medical advice and everybody's situation is unique.
 
 ---
 
@@ -58,15 +56,15 @@ Let's get into the details, for those that are interested.
 
 ![Creatine reactions - (Kreider 2017) - CC BY-SA 4.0](creatine-reactions.png)
 
-It is produced in the liver and kidneys, and because we can produce it, around 1-2 grams a day, it is not “essential” in our diet. However, supplementing has some significant benefits, as you will see, especially if your intake in food is low.
+It is produced in the liver and kidneys, and because we can produce it, around 1-2 grams a day, it is not “essential” in our diet. However, supplementing has some significant benefits, and the general population are probably not getting enough in the diet - almost 50% short of expected intake in the US [^Ostojic2021]. Some chronic conditions like liver disease, autism spectrum disorders, multiple sclerosis can also result in lower creatine reserves [^Ostojic2021].
 
-The biggest source in our diet is meat. A pound of uncooked beef or salmon contains about 1-2g of creatine (Kreider 2017). Most of us are not eating a pound of meat or fish per day.
+The biggest source in our diet is meat. A pound of uncooked beef or salmon contains about 1-2g of creatine [^Kreider2017]. Most of us are not eating a pound of meat or fish per day.
 
-Vegetarians, not surprisingly, generally have lower intramuscular creatine stores and may benefit more from supplementation.
+Vegetarians, not surprisingly, generally have lower intramuscular creatine stores and *may* benefit more from supplementation.
 
 What is its purpose in the body?
 
-- When cells have a surplus of creatine and ATP (cellular energy source), ATP can donate a phosphate group to form phosphocreatine.  Phosphocreatine acts as an "energy buffer" to regenerate lost ATP. Supplying more creatine can bring cells closer to saturation, maximizing the ability to regenerate energy for intense activity.
+- When cells have a surplus of creatine and ATP (cellular energy source), ATP can donate a phosphate group to form phosphocreatine.  Phosphocreatine acts as an "energy buffer" to regenerate lost ATP. Supplementing creatine can saturate cells with creatine and phosphocreatine, maximizing the ability to regenerate energy for intense activity.
 
 ## Dosing
 
@@ -77,7 +75,7 @@ Supplementation amount:
 - common recommendations are for 3g in non-athletic adults, elderly, 5-10g for athletes
 - some use a "loading phase" when first starting to take it, 5-10g 2-4 times per day for around a week
 
-Supplementation can increase serum creatine concentration almost ten fold [^Kalhan2016].
+Supplementation can increase serum creatine concentration almost ten fold [^Kalhan2016], with intramuscular total creatine content increasing up to 50% (20-40% as phosphocreatine) [^Wax2021].
 
 What type of creatine to supplement?
 
@@ -85,21 +83,21 @@ What type of creatine to supplement?
 
 Taking it with carbs and/or protein may be more effective.
 
-There is a possible slight benefit to consuming post-exercise, but the magnitude and mechanism aren't clear (Ribeiro 2021). Speculated mechanisms include increased blood flow and nutrient transport triggered by exercise increasing delivery of creatine to muscles.
+There is a possible slight benefit to consuming post-exercise, but the magnitude and mechanism aren't clear [^Ribeiro2021]. Speculated mechanisms include increased blood flow and nutrient transport triggered by exercise increasing delivery of creatine to muscles.
 
-1-2% per day of the body's creatine stores are broken down daily and peed out in urine. Once levels are elevated, it takes about 4-6 weeks for creatine stores to return to baseline. (Kreider 2017)
+1-2% per day of the body's creatine stores are broken down daily and peed out in urine. Once levels are elevated, it takes about 4-6 weeks for creatine stores to return to baseline [^Kreider2017].
 
 ## Benefits
 
-How much benefit to strength?
+The list of benefits to strength, work capacity, sport performance, and recovery are listed above. I would like to talk about *why* creatine results in these effects, and list a few more niche, less studied benefits that have been found as a result of creatine supplementation.
 
-- Multiple sources cite improvements to power/strength of 5-15%, slight improvements to sprint performance, with more benefit to repetitive sprints of 5-15%
-- Increases time to exhaustion during high intensity endurance activity [^Forbes2023].
-- Because of the improved work capacity and recovery, creatine supplementation also results in more gains in strength, muscle mass, and performance long term. Work harder in practice, without injury -> get better results.
-- There is less benefit to endurance activities like swimming, jogging, cycling.
-- Decreases inflammation, and oxidative stress, and may increase mitochondrial biogenesis [^Forbes2023].
+Creatine exerts its effects through its ability to combine with phosphate groups from ATP at times of rest to form *phosphocreatine*. Supplementation increases the amount of intramuscular *phosphocreatine* 20-40% [^Wax2021]. Phosphocreatine provides energy storage, and results in faster and more sustained ATP re-synthesis during times of stress.
 
-Studied, possible benefits (thus far with limited evidence) in many more conditions:
+Through the energy buffering / ATP re-synthesis, creatine supplementation allows increased work capacity, and as a result of *doing more work*, the benefits of exercise increase (lean mass gains, fat loss).
+
+Creatine also decreases post-exercise inflammatory response, reduces markers of muscle damage after exercise, and restores damaged muscle's capacity to produce force .
+
+Other less studied, possible benefits (thus far with limited evidence) in many more conditions:
 
 - Post-COVID fatigue [^Slankamenac2023]
 - Chronic fatigue syndrome [^Ostojic2021]
@@ -110,6 +108,8 @@ Studied, possible benefits (thus far with limited evidence) in many more conditi
 - Mood disorders [^Candow2023]
 - Concussions [^Candow2023]
 
+It is less easy to study the effects of supplementation directly on the brain because fewer researchers are doing brain than muscle biopsies. But, it stands to reason that it is the same process, the ATP buffering/re-synthesis, that could allow for improvements in memory/recall/reasoning, especially in times of stress. For the brain, that is intense cognitive load, sleep deprivation, ischemic events, or disease conditions.
+
 ## Safety
 
 What is interesting to me about all of these clinical studies, as well, is that there have not been any significant adverse effects from supplementing creatine.
@@ -118,25 +118,28 @@ No supplement can be considered perfectly safe, so there may be something found 
 
 Unknowns start to be introduced with potential contaminants introduced in the manufacturing process, so there should be special caution about selecting the right manufacturer and whether the risks outweigh the benefits in certain populations, like children.
 
+---
+
+### Creatine in a Pediatric Population
+
 Can children take it safely?
 
-- Probably, but it is not recommended by the American Academy of Pediatrics.
-- I think that the biggest concern is not the creatine itself, if from a reliable source, but the potential additives or contaminants (like lead) in unregulated supplements and their effect on a developing body.
+- Probably, but it is not recommended by the American Academy of Pediatrics [^Metzl2001]. Note that the AAP recommendations have not been updated since 2001, with a plethora of creatine research on safety and efficacy done in the last 20 years.
+- From my perspective, the biggest concern is not the creatine itself, if from a reliable source, but the potential additives or contaminants (like lead, mercury, dicyandiamide, dihydrotriazine) in unregulated supplements and their effect on a developing body. In a 2011 study by Moret et al, 50% of analyzed creatine supplements exceeded the maximum recommended levels of at least one contaminant [^Moret2011].
 
-Let's talk about fears of kidney failure or kidney injury.
+---
 
-- How we measure kidney function: Creatinine (Cr) and GFR. GFR is calculated from Cr. Creatine supplementation raises Cr levels because Cr is a breakdown product of creatine.
-- The creatine itself does not do any harm. Creatine supplementation and eating meat result in elevations of creatinine levels *because the body has more creatine it is breaking down*, not because it affects the kidneys' ability to filter the blood. Similarly, people with more muscle mass have a higher baseline Cr even with normal kidney function.
+### Creatine and Kidney Function
 
-The one caveat to the above is that there is limited data on creatine use in the setting of existing renal dysfunction. There may be a pathway by which creatinine is broken down into other substances when concentration is high, that would not be a concern with healthy kidneys but *may* be in certain situations. It has not been studied, and so caution should be taken [^Longobardi2023]
+There were initial concerns about the detrimental effects of creatine supplementation on kidney function, because creatine breaks down into creatinine, which is a commonly used measure of renal function. If creatinine goes up, kidney function must be worse? Well, not really [^Longobardi2023]. That was based on case reports and has not held up.
 
-Is it *completely* safe? Surely there must be a few actual adverse effects?
+The one caveat to the above is that there is limited data on creatine use in the setting of existing renal dysfunction. There may be a pathway by which creatinine is broken down into other substances when concentration is high, that would not be a concern with healthy kidneys. It has not been studied, and so caution is warranted [^Longobardi2023].
 
-- weight gain
+---
 
-![[assets/AlwaysSunny-CreatineShits.gif]]
+### Creatine and Weight Gain
 
-How much weight gain? About 0.5-1.0L of fluid retention is typical, so about the same in kilograms. (Kreider 2017)
+How much weight gain? About 0.5-1.0L of fluid retention is typical, so about the same in kilograms [^Kreider2017].
 
 - 95% of creatine is stored in muscles. Supplementation increases stored creatine, which has an osmotic effect. For those who have not taken chemistry or slept through that day of chemistry, water moves into areas that have more solute, AKA “other stuff dissolved in water". In this case, we are adding more stuff, the creatine, that pulls more water into muscles. They get bigger, and the body gains "water weight". Similar concept to when you eat a lot of carbs as carbohydrates are also brought into cells and bring some water along with them.
 
@@ -144,28 +147,39 @@ I know there is a lot of stigma about weight gain, but there are a few reasons w
 
 - 1. Creatine does not increase fat mass [^Antonio2021]. It's not adipose tissue that then has to be lost with a caloric deficit. It will go away when/if you stop supplementing creatine.
 - 2. Muscles looking bigger tends to be more aesthetically pleasing than other kinds of weight gain. You "carry it" differently.
-- 3. The water retention will cap when your cells are saturated with creatine.
-- 4. It is not that much, compared to total body water and your baseline weight.
+- 3. The water retention will cap when your cells are saturated with creatine. Unlike fat gain, there is an upper bound.
 
-Am I at higher risk for muscle injury? Dehydration? Muscle cramping?
+The fluid retention is not seen in everyone, and it is a minor increase compared to total body water and your baseline weight. But, you'll have to decide if the possibility is significant or the effect adverse.
+
+---
+
+Are we at higher risk for muscle injury? Dehydration? Muscle cramping?
 
 - No to all of the above. In fact, studies have demonstrated less incidence of cramping, heat illness, dehydration, muscle strain, total injuries, and missed practices in those taking creatine [^Kreider2017].
+
+---
 
 What about hair loss? There was that one study that showed increased DHT, right?
 
 - One study showed an increase in DHT in rugby players given creatine [^vanderMerwe2009]. This result has not been replicated and there are many factors, including exercise, that may contribute to DHT fluctuations. In other studies, creatine has not been shown to affect testosterone (free or total), or DHT [^Antonio2021].
 
+---
+
+I have seen anecdotal accounts of insomnia resulting from creatine supplementation. This is not implausible at its face, due to the interactions with adenosine compounds. I am unable to find any studies looking at this outcome.
+
+---
+
 ## Legality
 
 Is it banned in any sports?
 
-- No. There was controversy in the 1990s but it is impossible to ban supplementation because it is found in meat.
+- No. There was controversy in the 1990s but it is not feasible to ban supplementation because it is found in meat and produced by multiple cell types in our bodies.
 
 ## Personal Experience and Wrapping Up
 
 So, bottom line: should you take it?
 
-Well, this blog is not medical advice. Keep in mind that long term data (more than 5 years) on the effects of supplementation are lacking, and creatine is not studied fully in many medical conditions, including renal disease. There may be an alternate pathway the body uses to metabolize creatine when it cannot excrete it, as in advanced renal disease.
+Well, this blog is not medical advice. Keep in mind that long term data (more than 5 years) on the effects of supplementation are lacking, and creatine is not studied fully in many medical conditions, including renal disease. There may be an alternate pathway the body uses to metabolize creatine when it cannot excrete it, as in advanced renal disease, that could potentially result in harm.
 
 I consider myself an amateur or hobbyist exerciser, not elite in any sport. I already took creatine even before this deep dive. Anecdotally, I notice a difference when I take it. I feel stronger and more capable in my workouts. I do feel like there is a little bit more "bulk" to my muscles, I suspect from a little bit of water retention, but it is nothing that anybody else likely notices or has commented on. I can say that I will continue to take it, and even more confidently after the research I've done here.
 
@@ -214,3 +228,11 @@ Any recommended brands or formulations?
 [^Forbes2021]: Forbes, S.C. et al. (2021) ‘Meta-Analysis Examining the Importance of Creatine Ingestion Strategies on Lean Tissue Mass and Strength in Older Adults’, Nutrients, 13(6), p. 1912. Available at: <https://doi.org/10.3390/nu13061912>.
 
 [^Dinan2022]: Dinan, N.E. et al. (2022) ‘Effects of creatine monohydrate timing on resistance training adaptations and body composition after 8 weeks in male and female collegiate athletes’, Frontiers in Sports and Active Living, 4. Available at: <https://doi.org/10.3389/fspor.2022.1033842>.
+
+[^Wax2021]: Wax, B. et al. (2021) ‘Creatine for Exercise and Sports Performance, with Recovery Considerations for Healthy Populations’, Nutrients, 13(6), p. 1915. Available at: <https://doi.org/10.3390/nu13061915>.
+
+[^Moret2011]: Moret, S., Prevarin, A. and Tubaro, F. (2011) ‘Levels of creatine, organic contaminants and heavy metals in creatine dietary supplements’, Food Chemistry, 126(3), pp. 1232–1238. Available at: <https://doi.org/10.1016/j.foodchem.2010.12.028>.
+
+[^Metzl2001]: Metzl, J.D. et al. (2001) ‘Creatine Use Among Young Athletes’, Pediatrics, 108(2), pp. 421–425. Available at: <https://doi.org/10.1542/peds.108.2.421>.
+
+[^Ribeiro2021]: Ribeiro, F. et al. (2021) ‘Timing of Creatine Supplementation around Exercise: A Real Concern?’, Nutrients, 13(8), p. 2844. Available at: <https://doi.org/10.3390/nu13082844>.
