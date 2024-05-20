@@ -6,7 +6,35 @@
     <description>Recent content in Blog on worm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 17:42:59 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creatine Deep Dive</title>
+      <link>http://localhost:1313/blog/2024/05/01/creatine-deep-dive/</link>
+      <pubDate>Wed, 01 May 2024 15:49:03 -0500</pubDate>
+      <guid>http://localhost:1313/blog/2024/05/01/creatine-deep-dive/</guid>
+      <description>Hey, meatsuits.&#xA;I&amp;rsquo;m of the opinion that most people should be taking creatine. I think a better question than &amp;ldquo;Why?&amp;rdquo; is &amp;ldquo;Why not?&amp;rdquo;, but let&amp;rsquo;s give it a try.&#xA;If you&amp;rsquo;re an athlete, the benefits are significant in many respects. Better performance, more efficient workouts, faster recovery. See below for details.&#xA;If you are not an athlete: you still exercise, right? If you don&amp;rsquo;t, then you are missing out on the most effective way to live healthier, longer, feel better and more capable, improve your mood, and many other benefits.</description>
+    </item>
+    <item>
+      <title>LDL &amp; Mortality - Not as simple as we thought?</title>
+      <link>http://localhost:1313/blog/2024/05/01/ldl-mortality-not-as-simple-as-we-thought/</link>
+      <pubDate>Wed, 01 May 2024 15:49:03 -0500</pubDate>
+      <guid>http://localhost:1313/blog/2024/05/01/ldl-mortality-not-as-simple-as-we-thought/</guid>
+      <description>Interesting paper in the BMJ looking at the association between LDL levels and mortality in non-diabetic primary prevention patients.&#xA;Primary prevention aims to prevent the onset of a disease or condition. This includes measures like vaccinations, healthy lifestyle promotion (diet and exercise), and smoking cessation programs.&#xA;Secondary prevention focuses on early detection and treatment of a disease or condition to prevent it from worsening. Examples include regular screenings for cancer or cholesterol, and taking medication to manage high blood pressure.</description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/blog/2024/05/01/test/</link>
+      <pubDate>Wed, 01 May 2024 15:49:03 -0500</pubDate>
+      <guid>http://localhost:1313/blog/2024/05/01/test/</guid>
+      <description>Testing new blog post.</description>
+    </item>
+    <item>
+      <title>Exercise Depression</title>
+      <link>http://localhost:1313/blog/2024/05/17/exercise-depression/</link>
+      <pubDate>Fri, 17 May 2024 17:42:59 -0500</pubDate>
+      <guid>http://localhost:1313/blog/2024/05/17/exercise-depression/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
