@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pathology on worm</title>
-    <link>http://localhost:1313/tags/pathology/</link>
+    <link>//localhost:1313/tags/pathology/</link>
     <description>Recent content in Pathology on worm</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/tags/pathology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/pathology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Health and Disease</title>
-      <link>http://localhost:1313/docs/health/</link>
+      <link>//localhost:1313/docs/health/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/health/</guid>
+      <guid>//localhost:1313/docs/health/</guid>
       <description> Information here is based on current research, but may evolve over time, and none of it is a substitute for professional medical advice. You use this information at your own risk. The author/website is not liable for any outcomes related to the content. Always consult your doctor before making changes to your health routine. </description>
     </item>
   </channel>

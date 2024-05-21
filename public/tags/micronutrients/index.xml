@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Micronutrients on worm</title>
-    <link>http://localhost:1313/tags/micronutrients/</link>
+    <link>//localhost:1313/tags/micronutrients/</link>
     <description>Recent content in Micronutrients on worm</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/tags/micronutrients/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/micronutrients/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Micronutrients</title>
-      <link>http://localhost:1313/docs/nutrition/micronutrients/</link>
+      <link>//localhost:1313/docs/nutrition/micronutrients/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/nutrition/micronutrients/</guid>
+      <guid>//localhost:1313/docs/nutrition/micronutrients/</guid>
       <description></description>
     </item>
     <item>
       <title>Vitamin D</title>
-      <link>http://localhost:1313/docs/nutrition/micronutrients/vitd/</link>
+      <link>//localhost:1313/docs/nutrition/micronutrients/vitd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/nutrition/micronutrients/vitd/</guid>
+      <guid>//localhost:1313/docs/nutrition/micronutrients/vitd/</guid>
       <description>Vitamin D Vitamin D has receptors in many cell types, including the brain (hippocampus, substantia nigra, cerebellum), and modulates the expression of genes involved in neurotransmitter release, neurotrophic factors, and neuroprotection, as well as the hypothalamic-pituitary-adrenal (HPA) axis and the production of epinephrine, norepinephrine, and dopamine [^Ciobanu2023] Neuroprotection mediated through: &amp;ldquo;reduction of nitric oxide synthesis and calcium toxicity, protection of the neurons from induced cell death, antioxidant properties, and modulation of cytokine release&amp;rdquo; [^Ciobanu2023].</description>
     </item>
   </channel>

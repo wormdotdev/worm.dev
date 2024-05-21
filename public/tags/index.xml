@@ -22,5 +22,82 @@
       <guid>//localhost:1313/tags/nutrition/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Cognition</title>
+      <link>//localhost:1313/tags/cognition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/cognition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Disease</title>
+      <link>//localhost:1313/tags/disease/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/disease/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Exercise</title>
+      <link>//localhost:1313/tags/exercise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/exercise/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Health</title>
+      <link>//localhost:1313/tags/health/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/health/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lipids</title>
+      <link>//localhost:1313/tags/lipids/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/lipids/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Longevity</title>
+      <link>//localhost:1313/tags/longevity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/longevity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mentalhealth</title>
+      <link>//localhost:1313/tags/mentalhealth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/mentalhealth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Micronutrients</title>
+      <link>//localhost:1313/tags/micronutrients/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/micronutrients/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pathology</title>
+      <link>//localhost:1313/tags/pathology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/pathology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pathophysiology</title>
+      <link>//localhost:1313/tags/pathophysiology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/pathophysiology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sleep</title>
+      <link>//localhost:1313/tags/sleep/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/sleep/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

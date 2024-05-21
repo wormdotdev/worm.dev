@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Health and Disease on worm</title>
-    <link>http://localhost:1313/docs/health/</link>
+    <link>//localhost:1313/docs/health/</link>
     <description>Recent content in Health and Disease on worm</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/docs/health/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/docs/health/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
