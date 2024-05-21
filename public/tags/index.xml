@@ -2,101 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on worm</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on worm</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 01 May 2024 15:49:03 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creatine</title>
-      <link>http://localhost:1313/tags/creatine/</link>
+      <link>//localhost:1313/tags/creatine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/creatine/</guid>
+      <guid>//localhost:1313/tags/creatine/</guid>
       <description></description>
     </item>
     <item>
       <title>Nutrition</title>
-      <link>http://localhost:1313/tags/nutrition/</link>
+      <link>//localhost:1313/tags/nutrition/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/nutrition/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cognition</title>
-      <link>http://localhost:1313/tags/cognition/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cognition/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Disease</title>
-      <link>http://localhost:1313/tags/disease/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/disease/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Exercise</title>
-      <link>http://localhost:1313/tags/exercise/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/exercise/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Health</title>
-      <link>http://localhost:1313/tags/health/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/health/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Lipids</title>
-      <link>http://localhost:1313/tags/lipids/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/lipids/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Longevity</title>
-      <link>http://localhost:1313/tags/longevity/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/longevity/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mentalhealth</title>
-      <link>http://localhost:1313/tags/mentalhealth/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mentalhealth/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Micronutrients</title>
-      <link>http://localhost:1313/tags/micronutrients/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/micronutrients/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pathology</title>
-      <link>http://localhost:1313/tags/pathology/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/pathology/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pathophysiology</title>
-      <link>http://localhost:1313/tags/pathophysiology/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/pathophysiology/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sleep</title>
-      <link>http://localhost:1313/tags/sleep/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/sleep/</guid>
+      <guid>//localhost:1313/tags/nutrition/</guid>
       <description></description>
     </item>
   </channel>

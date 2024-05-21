@@ -2,53 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nutrition on worm</title>
-    <link>http://localhost:1313/tags/nutrition/</link>
+    <link>//localhost:1313/tags/nutrition/</link>
     <description>Recent content in Nutrition on worm</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 01 May 2024 15:49:03 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/nutrition/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/nutrition/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creatine Deep Dive</title>
-      <link>http://localhost:1313/blog/2024/05/01/creatine-deep-dive/</link>
+      <link>//localhost:1313/blog/2024/05/01/creatine-deep-dive/</link>
       <pubDate>Wed, 01 May 2024 15:49:03 -0500</pubDate>
-      <guid>http://localhost:1313/blog/2024/05/01/creatine-deep-dive/</guid>
+      <guid>//localhost:1313/blog/2024/05/01/creatine-deep-dive/</guid>
       <description>Hey, meatsuits. I&amp;rsquo;m of the opinion that most people stand to benefit from supplementing creatine. I&amp;rsquo;ll try to lay out my argument for why. I&amp;rsquo;m not the first or the only to make this argument, nor do I have any illusions that I will do it more rigorously, or convincingly. I have just seen benefits from it myself, and want to review the evidence and the mechanisms.&#xA;I think that it stands high, if not at the top, of the list of actually useful supplements - an example of a supplement that does not just result in expensive urine.</description>
-    </item>
-    <item>
-      <title>Lipids</title>
-      <link>http://localhost:1313/docs/nutrition/macronutrients/lipids/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/nutrition/macronutrients/lipids/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Micronutrients</title>
-      <link>http://localhost:1313/docs/nutrition/micronutrients/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/nutrition/micronutrients/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Nutrition</title>
-      <link>http://localhost:1313/docs/nutrition/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/nutrition/</guid>
-      <description> Information here is based on current research, but may evolve over time, and none of it is a substitute for professional medical advice. You use this information at your own risk. The author/website is not liable for any outcomes related to the content. Always consult your doctor before making changes to your health routine. </description>
-    </item>
-    <item>
-      <title>Trans-fatty acids</title>
-      <link>http://localhost:1313/docs/nutrition/macronutrients/lipids/transfat/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/nutrition/macronutrients/lipids/transfat/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vitamin D</title>
-      <link>http://localhost:1313/docs/nutrition/micronutrients/vitd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/nutrition/micronutrients/vitd/</guid>
-      <description>Vitamin D Vitamin D has receptors in many cell types, including the brain (hippocampus, substantia nigra, cerebellum), and modulates the expression of genes involved in neurotransmitter release, neurotrophic factors, and neuroprotection, as well as the hypothalamic-pituitary-adrenal (HPA) axis and the production of epinephrine, norepinephrine, and dopamine [^Ciobanu2023] Neuroprotection mediated through: &amp;ldquo;reduction of nitric oxide synthesis and calcium toxicity, protection of the neurons from induced cell death, antioxidant properties, and modulation of cytokine release&amp;rdquo; [^Ciobanu2023].</description>
     </item>
   </channel>
 </rss>

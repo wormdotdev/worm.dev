@@ -1,7 +1,7 @@
 ---
 title: Creatine Deep Dive
 date: 2024-05-01T15:49:03-05:00
-draft: true
+draft: false
 type: blog
 categories: [blog]
 tags: [nutrition, creatine]
@@ -89,9 +89,9 @@ There is a possible slight benefit to consuming post-exercise, but the magnitude
 
 ## Benefits
 
-The list of benefits to strength, work capacity, sport performance, and recovery are listed above. I would like to talk about *why* creatine results in these effects, and list a few more niche, less studied benefits that have been found as a result of creatine supplementation.
+The list of benefits to strength, work capacity, sport performance, and recovery are above. I would like to talk about *why* creatine results in these effects, and list a few more niche, less studied benefits that have been found as a result of creatine supplementation.
 
-Creatine exerts its effects through its ability to combine with phosphate groups from ATP at times of rest to form *phosphocreatine*. Supplementation increases the amount of intramuscular *phosphocreatine* 20-40% [^Wax2021]. Phosphocreatine provides energy storage, and results in faster and more sustained ATP re-synthesis during times of stress.
+Creatine exerts its effects through its ability to combine with phosphate groups from ATP in times of rest to form *phosphocreatine*. Supplementation increases the amount of intramuscular *phosphocreatine* 20-40% [^Wax2021]. Phosphocreatine provides energy storage, and results in faster and more sustained ATP re-synthesis during times of stress.
 
 Through the energy buffering / ATP re-synthesis, creatine supplementation allows increased work capacity, and as a result of *doing more work*, the benefits of exercise increase (lean mass gains, fat loss).
 
@@ -108,7 +108,7 @@ Other less studied, possible benefits (thus far with limited evidence) in many m
 - Mood disorders [^Candow2023]
 - Concussions [^Candow2023]
 
-It is less easy to study the effects of supplementation directly on the brain because fewer researchers are doing brain than muscle biopsies. But, it stands to reason that it is the same process, the ATP buffering/re-synthesis, that could allow for improvements in memory/recall/reasoning, especially in times of stress. For the brain, that is intense cognitive load, sleep deprivation, ischemic events, or disease conditions.
+It is less easy to study the effects of supplementation directly on the brain because fewer researchers are doing brain than muscle biopsies, and memory and cognitive testing involve more variables than a leg press. But, it stands to reason that it is the same process, the ATP buffering/re-synthesis, that could allow for improvements in memory/recall/reasoning, especially in times of stress. For the brain, that is intense cognitive load, sleep deprivation, ischemic events, or disease conditions.
 
 ## Safety
 
@@ -236,3 +236,5 @@ Any recommended brands or formulations?
 [^Metzl2001]: Metzl, J.D. et al. (2001) ‘Creatine Use Among Young Athletes’, Pediatrics, 108(2), pp. 421–425. Available at: <https://doi.org/10.1542/peds.108.2.421>.
 
 [^Ribeiro2021]: Ribeiro, F. et al. (2021) ‘Timing of Creatine Supplementation around Exercise: A Real Concern?’, Nutrients, 13(8), p. 2844. Available at: <https://doi.org/10.3390/nu13082844>.
+
+[^vanderMerwe2009]: van der Merwe, J., Brooks, N.E. and Myburgh, K.H. (2009) ‘Three Weeks of Creatine Monohydrate Supplementation Affects Dihydrotestosterone to Testosterone Ratio in College-Aged Rugby Players’, Clinical Journal of Sport Medicine, 19(5), p. 399. Available at: <https://doi.org/10.1097/JSM.0b013e3181b8b52f>.
