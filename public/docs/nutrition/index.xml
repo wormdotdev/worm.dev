@@ -4,7 +4,7 @@
     <title>Nutrition on worm</title>
     <link>http://localhost:1313/docs/nutrition/</link>
     <description>Recent content in Nutrition on worm</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/docs/nutrition/index.xml" rel="self" type="application/rss+xml" />
   </channel>

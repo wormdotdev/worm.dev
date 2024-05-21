@@ -10,7 +10,7 @@ description: Creatine - Amazing Benefits, Overhyped, or Dangerous?
 ---
 
 
-Hey, meatsuits. I'm of the opinion that most people stand to benefit from supplementing creatine. I'll try to lay out my argument for why. I'm not the first or the only to [make this argument](https://www.sciencedirect.com/science/article/pii/S1756464621002176), nor do I have any illusions that I will do it more rigorously, or convincingly. I have just seen benefits from it myself, and wanted to review the evidence and the mechanisms.
+Hey, meatsuits. I'm of the opinion that most people stand to benefit from supplementing creatine. I'll try to lay out my argument for why. I'm not the first or the only to [make this argument](https://www.sciencedirect.com/science/article/pii/S1756464621002176), nor do I have any illusions that I will do it more rigorously, or convincingly. I have just seen benefits from it myself, and want to review the evidence and the mechanisms.
 
 I think that it stands high, if not at the top, of the list of actually useful supplements - an example of a supplement that does not just result in expensive urine.
 
