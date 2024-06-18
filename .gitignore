@@ -6,4 +6,5 @@ gitCommitIfChanged.sh
 ignore/**
 .obsidian/**
 backupContent/**
+public/**
 
