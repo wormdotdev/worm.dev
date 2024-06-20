@@ -27,7 +27,7 @@ Health Benefits and Conditions:
 
 ## Creatine as an antioxidant
 
-There are multiple mechanisms by which creatine acts as an antioxidant [^Arazi2021][^Clark2020].
+There are multiple mechanisms by which creatine acts as an antioxidant [^Arazi2021] [^Clarke2020].
 
 - Direct scavenging of reactive oyxgen species (ROS)
 - Mitochondrial membrane integrity
@@ -89,3 +89,5 @@ Everybody will have to make their own choice about whether the benefits are wort
 [^Patel2022]: Patel, R. et al. (2022) ‘Cyclocreatine Suppresses Creatine Metabolism and Impairs Prostate Cancer Progression’, Cancer Research, 82(14), pp. 2565–2575. Available at: <https://doi.org/10.1158/0008-5472.CAN-21-1301>.
 
 [^Zhang2021]: Zhang, L. et al. (2021) ‘Creatine promotes cancer metastasis through activation of Smad2/3’, Cell Metabolism, 33(6), pp. 1111-1123.e4. Available at: <https://doi.org/10.1016/j.cmet.2021.03.009>.
+
+[^Clarke2020]: Clarke, H. et al. (2020) ‘The Evolving Applications of Creatine Supplementation: Could Creatine Improve Vascular Health?’, Nutrients, 12(9), p. 2834. Available at: <https://doi.org/10.3390/nu12092834>.
