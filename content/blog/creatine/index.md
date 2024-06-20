@@ -46,7 +46,9 @@ Possible side effects include:
 
 Just kidding - creatine shits not a common side effect. Creatine is extremely safe, well tolerated in even large doses.
 
-There are situations where there is limited research on safety like in renal disease. Everyone should check with their doctor to discuss their personal health situation - this blog is not medical advice and everybody's situation is unique.
+There are situations where there is limited research on safety like in renal disease, and everyone should consider that the long term effects of creatine supplementation are unknown. The effects of supplementation on the development and spread of cancer are currently being investigated.
+
+Everyone should check with their doctor to discuss their personal health situation - this blog is not medical advice and everybody's situation is unique.
 
 ---
 
@@ -118,8 +120,6 @@ No supplement can be considered perfectly safe, so there may be something found 
 
 Unknowns start to be introduced with potential contaminants introduced in the manufacturing process, so there should be special caution about selecting the right manufacturer and whether the risks outweigh the benefits in certain populations, like children.
 
----
-
 ### Creatine in a Pediatric Population
 
 Can children take it safely?
@@ -127,15 +127,11 @@ Can children take it safely?
 - Probably, but it is not recommended by the American Academy of Pediatrics [^Metzl2001]. Note that the AAP recommendations have not been updated since 2001, with a plethora of creatine research on safety and efficacy done in the last 20 years.
 - From my perspective, the biggest concern is not the creatine itself, if from a reliable source, but the potential additives or contaminants (like lead, mercury, dicyandiamide, dihydrotriazine) in unregulated supplements and their effect on a developing body. In a 2011 study by Moret et al, 50% of analyzed creatine supplements exceeded the maximum recommended levels of at least one contaminant [^Moret2011].
 
----
-
 ### Creatine and Kidney Function
 
 There were initial concerns about the detrimental effects of creatine supplementation on kidney function, because creatine breaks down into creatinine, which is a commonly used measure of renal function. If creatinine goes up, kidney function must be worse? Well, not really [^Longobardi2023]. That was based on case reports and has not held up.
 
 The one caveat to the above is that there is limited data on creatine use in the setting of existing renal dysfunction. There may be a pathway by which creatinine is broken down into other substances when concentration is high, that would not be a concern with healthy kidneys. It has not been studied, and so caution is warranted [^Longobardi2023].
-
----
 
 ### Creatine and Weight Gain
 
@@ -145,9 +141,9 @@ How much weight gain? About 0.5-1.0L of fluid retention is typical, so about the
 
 I know there is a lot of stigma about weight gain, but there are a few reasons why this is probably not as big of a deal as you think it is.
 
-- 1. Creatine does not increase fat mass [^Antonio2021]. It's not adipose tissue that then has to be lost with a caloric deficit. It will go away when/if you stop supplementing creatine.
-- 2. Muscles looking bigger tends to be more aesthetically pleasing than other kinds of weight gain. You "carry it" differently.
-- 3. The water retention will cap when your cells are saturated with creatine. Unlike fat gain, there is an upper bound.
+1. Creatine does not increase fat mass [^Antonio2021]. It's not adipose tissue that then has to be lost with a caloric deficit. It will go away when/if you stop supplementing creatine.
+2. Muscles looking bigger tends to be more aesthetically pleasing than other kinds of weight gain. You "carry it" differently.
+3. The water retention will cap when your cells are saturated with creatine. Unlike fat gain, there is an upper bound.
 
 The fluid retention is not seen in everyone, and it is a minor increase compared to total body water and your baseline weight. But, you'll have to decide if the possibility is significant or the effect adverse.
 
@@ -157,15 +153,19 @@ Are we at higher risk for muscle injury? Dehydration? Muscle cramping?
 
 - No to all of the above. In fact, studies have demonstrated less incidence of cramping, heat illness, dehydration, muscle strain, total injuries, and missed practices in those taking creatine [^Kreider2017].
 
----
+### Creatine and Hair Loss
 
 What about hair loss? There was that one study that showed increased DHT, right?
 
 - One study showed an increase in DHT in rugby players given creatine [^vanderMerwe2009]. This result has not been replicated and there are many factors, including exercise, that may contribute to DHT fluctuations. In other studies, creatine has not been shown to affect testosterone (free or total), or DHT [^Antonio2021].
 
----
+### Creatine and Insomnia
 
-I have seen anecdotal accounts of insomnia resulting from creatine supplementation. This is not implausible at its face, due to the interactions with adenosine compounds. I am unable to find any studies looking at this outcome.
+I have seen anecdotal accounts of insomnia resulting from creatine supplementation. This is not implausible at its face, due to the interactions with adenosine compounds. We know that creatine can blunt some of the effects of sleep deprivation, so it is not a far stretch to connect it to insomnia. I am unable to find any studies looking at this outcome.
+
+### Creatine and Cancer
+
+Stay tuned for part 2 where I explore the potential links between creatine and cancer. There is evidence that it can suppress primary tumor growth but some evidence in non-human studies that it could promote metastasis as well. The jury is still out.
 
 ---
 
@@ -179,7 +179,7 @@ Is it banned in any sports?
 
 So, bottom line: should you take it?
 
-Well, this blog is not medical advice. Keep in mind that long term data (more than 5 years) on the effects of supplementation are lacking, and creatine is not studied fully in many medical conditions, including renal disease. There may be an alternate pathway the body uses to metabolize creatine when it cannot excrete it, as in advanced renal disease, that could potentially result in harm.
+Well, this blog is not medical advice. Keep in mind that long term data (more than 5 years) on the effects of supplementation are lacking, and creatine is not studied fully in many medical conditions, including renal disease and different types of cancers. The things that give me the most pause when considering supplementation are the potential contaminants introduced in manufacturing, and the potential link with cancer that will be discussed in part 2.
 
 I consider myself an amateur or hobbyist exerciser, not elite in any sport. I already took creatine even before this deep dive. Anecdotally, I notice a difference when I take it. I feel stronger and more capable in my workouts. I do feel like there is a little bit more "bulk" to my muscles, I suspect from a little bit of water retention, but it is nothing that anybody else likely notices or has commented on. I can say that I will continue to take it, and even more confidently after the research I've done here.
 
