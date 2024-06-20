@@ -60,7 +60,7 @@ There are several studies looking at this topic, and so far the weight of the ev
 
 - Creatine mediates crosstalk between fat cells and breast cancer cells [^Maguire2021].
 
-Overall, it is apparent that creatine plays roles in cancer development and progression. The total extent and the specific scenarios where it is best taken or avoided are yet to be fully investigated.
+Overall, it is apparent that creatine plays roles in cancer development and progression. The total extent and the specific scenarios where it is best taken or avoided are yet to be fully investigated, especially in humans. The findings in mice and rats may not apply.
 
 ## Closing Thoughts
 
