@@ -44,7 +44,7 @@ Possible side effects include:
 - slight weight gain as a result of fluid retention
 - ![Creatine shits - Always Sunny](AlwaysSunny-CreatineShits.gif)
 
-Just kidding - creatine shits not a common side effect. Creatine is extremely safe, well tolerated in even large doses.
+Just kidding - creatine shits not a common side effect. Creatine is well tolerated in even large doses.
 
 There are situations where there is limited research on safety like in renal disease, and everyone should consider that the long term effects of creatine supplementation are unknown. The effects of supplementation on the development and spread of cancer are currently being investigated.
 
