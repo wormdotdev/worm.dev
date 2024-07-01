@@ -3,7 +3,6 @@ title: Creatine Deep Dive
 date: 2024-05-01T15:49:03-05:00
 draft: false
 type: blog
-categories: [blog]
 tags: [nutrition, creatine]
 weight: 1
 description: Creatine - Amazing Benefits, Overhyped, or Dangerous?

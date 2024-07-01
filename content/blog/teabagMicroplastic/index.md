@@ -1,8 +1,11 @@
-+++
-title = 'A little something extra in your tea - microplastics and nanoplastics'
-date = 2024-06-30
-draft = false
-+++
+---
+title: 'A little something extra in your tea - microplastics and nanoplastics'
+date: 2024-06-30
+draft: false
+weight: 1
+type: blog
+tags: [plastics, nutrition, tea]
+---
 
 You probably should not drink tea contained in tea bags, unless you are sure you know what they are made of. Once upon a time, tea bags were made of paper. Now, most of them are made of plastic-based materials (polyethylene, nylon).
 

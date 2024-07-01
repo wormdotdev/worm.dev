@@ -3,7 +3,6 @@ title: Creatine Part 2 - role in cancer and as antioxidant
 date: 2024-06-17
 draft: false
 type: blog
-categories: [blog]
 tags: [nutrition, creatine]
 weight: 1
 description:
